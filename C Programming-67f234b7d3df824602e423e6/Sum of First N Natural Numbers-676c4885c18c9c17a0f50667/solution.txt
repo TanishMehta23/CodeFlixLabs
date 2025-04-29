@@ -1,0 +1,1 @@
+[{"code":"#include <stdio.h>\r\n\r\nint main(){\r\n    int n;\r\n    scanf(\"%d\",&n);\r\n    int sum = 0;\r\n    for(int i = 0; i <= n; i++){\r\n        sum += i;\r\n    }\r\n    printf(\"%d\",sum);\r\n}","language":"c","time":"2025-04-29T09:53:32.288Z","isCorrect":true}]
